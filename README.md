@@ -1,5 +1,5 @@
 # Najiz-Courts
-Najiz Courts is one of Ministry of Justice systems, it's internal system aims to manage all courts issues, cases, judgements and other related issues.
+Najiz Courts one of Ministry of Justice systems, it's internal system aims to manage all courts issues, cases, judgements and other related issues.
 
 Used technologies:
 
