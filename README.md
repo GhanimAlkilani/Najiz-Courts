@@ -1,5 +1,6 @@
 # Najiz-Courts
-Najiz Courts one of Ministry of Justice systems, it's internal system aims to manage all courts issues, cases, judgements and other related issues.
+An internal system designed to empower judges and circle members in effectively managing court-related tasks, including lawsuits, judgments, sessions, and more.
+Developed with ASP.NET MVC, SQL Server, JavaScript, jQuery, HTML, and CSS.
 
 Used technologies:
 
